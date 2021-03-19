@@ -37,3 +37,4 @@ PHP
 ```
 
 <!--END_SECTION:waka-->
+<img src="https://github.com/iambharani/iambharani/blob/main/wave.svg">
