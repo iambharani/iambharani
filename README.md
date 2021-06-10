@@ -29,7 +29,7 @@ const Bharani = {
 ---
 <!--START_SECTION:waka-->
 
-**I Mostly Code in Vue** 
+**I Mostly Code in react** 
 
 ```text
 JavaScript            
