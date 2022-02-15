@@ -1,3 +1,5 @@
+<img src="https://github.com/iambharani/iambharani/blob/main0/header_wave.svg">
+
 <h2>Hi 👋, I'm Bharani Velu!</h2>
 <p><em>Front End Developer at <a href="http://www.bleumi.com">Bleumi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
