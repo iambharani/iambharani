@@ -1,13 +1,11 @@
-<h2>Hi 👋, I'm Bharani Velu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi 👋, I'm Bharani Velu!</h2>
 <p><em>Front End Developer at <a href="http://www.bleumi.com">Bleumi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ivan_bharani?label=Follow)](https://twitter.com/intent/follow?screen_name=ivan_bharani)
 [![Linkedin: Bharani](https://img.shields.io/badge/-Bharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharani-velu-a187971a0)](https://www.linkedin.com/in/bharani-velu-a187971a0/)
-![GitHub followers](https://img.shields.io/github/followers/iambharani?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bharani.dev/)](https://bharani.dev/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Bharani = {
