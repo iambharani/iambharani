@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [www.bharani.dev](www.bharani.dev)
 
-- 📝 I regularly write articles on [www.blog.bharani.dev](www.blog.bharani.dev)
+- 📝 I occasionally write articles on [www.blog.bharani.dev](www.blog.bharani.dev)
 
 - 📫 How to reach me **iambharanivelu@gmail.com**
 
